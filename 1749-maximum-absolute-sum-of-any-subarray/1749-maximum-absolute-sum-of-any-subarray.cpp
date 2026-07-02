@@ -6,11 +6,9 @@ public:
         int maxbestending=nums[0];
         int res=abs(nums[0]);
         for(int i=1;i<n;i++){
-            int v1=nums[i];
-            int v2=minbestending+nums[i];
-            int v3=maxbestending+nums[i];
-            minbestending=min(v1,min(v2,v3));
-            maxbestending=max(v1,max(v2,v3));
+            
+            minbestending=min(nums[i],minbestending+nums[i]);
+            maxbestending=max(nums[i],maxbestending+nums[i]);
             res=max(res,max(abs(maxbestending),abs(minbestending)));
         }
         return res;
