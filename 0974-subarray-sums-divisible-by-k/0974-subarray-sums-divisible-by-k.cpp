@@ -12,8 +12,7 @@ public:
             if(rem<0){
                 rem+=k;
             }
-            int freq=mp[rem];
-            res+=freq;
+            res+=mp[rem];
             mp[rem]++;
         }
         return res;
