@@ -10,7 +10,7 @@ public:
         for(int i=0;i<n;i++){
             sum+=nums[i];
             int ques=sum-k;
-            int freq=mp[sum-k];
+            int freq=mp[ques];
             res+=freq;
             mp[sum]++;
         }
