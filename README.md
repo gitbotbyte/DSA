@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/gitbotbyte/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/gitbotbyte/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/gitbotbyte/DSA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/gitbotbyte/DSA/tree/master/0057-insert-interval) |
 | [0525-contiguous-array](https://github.com/gitbotbyte/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gitbotbyte/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/gitbotbyte/DSA/tree/master/0724-find-pivot-index) |
