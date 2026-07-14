@@ -2,6 +2,8 @@ class Solution {
 public:
     vector<vector<int>> intervalIntersection(vector<vector<int>>& firstList,
                                              vector<vector<int>>& secondList) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         vector<vector<int>> res;
         int n = firstList.size();
         int m = secondList.size();
@@ -18,8 +20,8 @@ public:
             }
             if (end1 <= end2) {
                 i++;
-            }
-            else j++;
+            } else
+                j++;
         }
         return res;
     }
