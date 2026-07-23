@@ -54,6 +54,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gitbotbyte/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gitbotbyte/DSA/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gitbotbyte/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
@@ -85,6 +86,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gitbotbyte/DSA/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/gitbotbyte/DSA/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gitbotbyte/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
