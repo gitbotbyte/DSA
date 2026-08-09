@@ -10,11 +10,26 @@
 
 class Solution {
 public:
+    TreeNode* res = NULL;
+    void fun(TreeNode* root, TreeNode* p, TreeNode* q) {
+        if (root == NULL) return;
+        if (root == p || root == q) {
+            res = root;
+        }
+        if (root->val < p->val) {
+            fun(root->right, p, q);
+        } else if (root->val > q->val) {
+            fun(root->left, p, q);
+        } else {
+            res = root;
+            return;
+        }
+    }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(root==NULL || root==p || root==q) return root;
-        TreeNode*left=lowestCommonAncestor(root->left,p,q);
-        TreeNode*right=lowestCommonAncestor(root->right,p,q);
-        if(left!=NULL && right!=NULL) return root;
-        return left!=NULL?left:right;
+        if (p->val < q->val)
+            fun(root, p, q);
+        else
+            fun(root, q, p);
+        return res;
     }
 };
