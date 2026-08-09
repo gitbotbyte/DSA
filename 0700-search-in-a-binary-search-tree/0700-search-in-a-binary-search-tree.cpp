@@ -18,6 +18,7 @@ public:
             return;
         else if (root->val == val) {
             res = root;
+            return;
         }
         if (root->val > val) {
             fun(root->left, val);
