@@ -13,9 +13,9 @@
 class Solution {
 public:
     TreeNode* res = NULL;
-    TreeNode* fun(TreeNode* root, int val) {
+    void fun(TreeNode* root, int val) {
         if (root == NULL)
-            return {};
+            return;
         else if (root->val == val) {
             res = root;
         }
@@ -24,7 +24,6 @@ public:
         } else {
             fun(root->right, val);
         }
-        return res;
     }
     TreeNode* searchBST(TreeNode* root, int val) {
         fun(root, val);
