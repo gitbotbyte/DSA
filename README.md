@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gitbotbyte/DSA/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/gitbotbyte/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gitbotbyte/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/gitbotbyte/DSA/tree/master/0042-trapping-rain-water) |
@@ -84,6 +85,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gitbotbyte/DSA/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/gitbotbyte/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/gitbotbyte/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gitbotbyte/DSA/tree/master/0560-subarray-sum-equals-k) |
