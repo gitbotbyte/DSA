@@ -12,7 +12,7 @@
  */
 class Solution {
 public:
-    bool fun(TreeNode* root, int sum, int& targetSum) {
+    bool fun(TreeNode* root, int sum, int targetSum) {
         if (root == NULL)
             return false;
         sum += root->val;
