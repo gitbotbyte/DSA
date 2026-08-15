@@ -119,6 +119,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/gitbotbyte/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gitbotbyte/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/gitbotbyte/DSA/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/gitbotbyte/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/gitbotbyte/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/gitbotbyte/DSA/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/gitbotbyte/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -138,6 +139,7 @@
 | [0101-symmetric-tree](https://github.com/gitbotbyte/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gitbotbyte/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/gitbotbyte/DSA/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/gitbotbyte/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/gitbotbyte/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/gitbotbyte/DSA/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/gitbotbyte/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -159,6 +161,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/gitbotbyte/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gitbotbyte/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/gitbotbyte/DSA/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/gitbotbyte/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/gitbotbyte/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/gitbotbyte/DSA/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/gitbotbyte/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -179,6 +182,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/gitbotbyte/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gitbotbyte/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gitbotbyte/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/gitbotbyte/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/gitbotbyte/DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/gitbotbyte/DSA/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitbotbyte/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
