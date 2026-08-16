@@ -132,6 +132,7 @@
 | [0572-subtree-of-another-tree](https://github.com/gitbotbyte/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitbotbyte/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gitbotbyte/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/gitbotbyte/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -176,6 +177,7 @@
 | [0572-subtree-of-another-tree](https://github.com/gitbotbyte/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitbotbyte/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gitbotbyte/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/gitbotbyte/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -189,6 +191,7 @@
 | [0112-path-sum](https://github.com/gitbotbyte/DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/gitbotbyte/DSA/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitbotbyte/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/gitbotbyte/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
