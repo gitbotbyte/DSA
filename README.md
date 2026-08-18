@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/gitbotbyte/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/gitbotbyte/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gitbotbyte/DSA/tree/master/0057-insert-interval) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gitbotbyte/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/gitbotbyte/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gitbotbyte/DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/gitbotbyte/DSA/tree/master/0525-contiguous-array) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gitbotbyte/DSA/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gitbotbyte/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gitbotbyte/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -87,6 +89,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gitbotbyte/DSA/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gitbotbyte/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/gitbotbyte/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/gitbotbyte/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gitbotbyte/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -119,6 +122,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/gitbotbyte/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/gitbotbyte/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gitbotbyte/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gitbotbyte/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gitbotbyte/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/gitbotbyte/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gitbotbyte/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -168,6 +172,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/gitbotbyte/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/gitbotbyte/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gitbotbyte/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gitbotbyte/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gitbotbyte/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/gitbotbyte/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gitbotbyte/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
