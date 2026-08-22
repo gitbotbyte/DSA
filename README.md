@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/gitbotbyte/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/gitbotbyte/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/gitbotbyte/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/gitbotbyte/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/gitbotbyte/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -244,5 +245,6 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/gitbotbyte/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/gitbotbyte/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/gitbotbyte/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
