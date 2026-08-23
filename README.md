@@ -49,6 +49,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/gitbotbyte/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/gitbotbyte/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/gitbotbyte/DSA/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/gitbotbyte/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/gitbotbyte/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/gitbotbyte/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -58,6 +59,7 @@
 | [0016-3sum-closest](https://github.com/gitbotbyte/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gitbotbyte/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/gitbotbyte/DSA/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/gitbotbyte/DSA/tree/master/0061-rotate-list) |
 | [0344-reverse-string](https://github.com/gitbotbyte/DSA/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitbotbyte/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/gitbotbyte/DSA/tree/master/0876-middle-of-the-linked-list) |
