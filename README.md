@@ -17,6 +17,7 @@
 | [0503-next-greater-element-ii](https://github.com/gitbotbyte/DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/gitbotbyte/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gitbotbyte/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/gitbotbyte/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/gitbotbyte/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/gitbotbyte/DSA/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gitbotbyte/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -235,6 +236,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gitbotbyte/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitbotbyte/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gitbotbyte/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/gitbotbyte/DSA/tree/master/0704-binary-search) |
 ## Backtracking
 |  |
 | ------- |
