@@ -21,6 +21,7 @@
 | [0704-binary-search](https://github.com/gitbotbyte/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/gitbotbyte/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/gitbotbyte/DSA/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/gitbotbyte/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gitbotbyte/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gitbotbyte/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/gitbotbyte/DSA/tree/master/0986-interval-list-intersections) |
@@ -239,6 +240,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitbotbyte/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gitbotbyte/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/gitbotbyte/DSA/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/gitbotbyte/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -253,4 +255,8 @@
 | [0024-swap-nodes-in-pairs](https://github.com/gitbotbyte/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/gitbotbyte/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/gitbotbyte/DSA/tree/master/0206-reverse-linked-list) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/gitbotbyte/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
