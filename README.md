@@ -14,6 +14,7 @@
 | [0056-merge-intervals](https://github.com/gitbotbyte/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gitbotbyte/DSA/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gitbotbyte/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/gitbotbyte/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/gitbotbyte/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gitbotbyte/DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/gitbotbyte/DSA/tree/master/0525-contiguous-array) |
@@ -236,6 +237,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gitbotbyte/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/gitbotbyte/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/gitbotbyte/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/gitbotbyte/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gitbotbyte/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitbotbyte/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gitbotbyte/DSA/tree/master/0700-search-in-a-binary-search-tree) |
