@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/gitbotbyte/DSA/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/gitbotbyte/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gitbotbyte/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/gitbotbyte/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gitbotbyte/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/gitbotbyte/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/gitbotbyte/DSA/tree/master/0053-maximum-subarray) |
@@ -234,6 +235,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/gitbotbyte/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gitbotbyte/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/gitbotbyte/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/gitbotbyte/DSA/tree/master/0099-recover-binary-search-tree) |
