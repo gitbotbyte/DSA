@@ -15,6 +15,7 @@
 | [0053-maximum-subarray](https://github.com/gitbotbyte/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/gitbotbyte/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gitbotbyte/DSA/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/gitbotbyte/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gitbotbyte/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gitbotbyte/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/gitbotbyte/DSA/tree/master/0496-next-greater-element-i) |
@@ -241,6 +242,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/gitbotbyte/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gitbotbyte/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/gitbotbyte/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/gitbotbyte/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/gitbotbyte/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gitbotbyte/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -268,4 +270,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gitbotbyte/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/gitbotbyte/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
