@@ -33,6 +33,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/gitbotbyte/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/gitbotbyte/DSA/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gitbotbyte/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/gitbotbyte/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gitbotbyte/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/gitbotbyte/DSA/tree/master/0986-interval-list-intersections) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/gitbotbyte/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -45,6 +46,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/gitbotbyte/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/gitbotbyte/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gitbotbyte/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/gitbotbyte/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [0347-top-k-frequent-elements](https://github.com/gitbotbyte/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gitbotbyte/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/gitbotbyte/DSA/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/gitbotbyte/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Sweep Line
 |  |
 | ------- |
@@ -300,11 +303,13 @@
 | [0347-top-k-frequent-elements](https://github.com/gitbotbyte/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gitbotbyte/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/gitbotbyte/DSA/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/gitbotbyte/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gitbotbyte/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gitbotbyte/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/gitbotbyte/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -319,4 +324,16 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/gitbotbyte/DSA/tree/master/0692-top-k-frequent-words) |
+## Math
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/gitbotbyte/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/gitbotbyte/DSA/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/gitbotbyte/DSA/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
