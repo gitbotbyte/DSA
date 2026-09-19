@@ -7,8 +7,8 @@ public:
         return dist;
     }
     vector<vector<int>> kClosest(vector<vector<int>>& a, int k) {
-        // ios_base::sync_with_stdio(false);
-        // cin.tie(NULL);
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         priority_queue<pair<int, int>> pq;
         for (int i = 0; i < a.size(); i++) {
             int dist = fun(a[i]);
