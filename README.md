@@ -16,6 +16,7 @@
 | [0056-merge-intervals](https://github.com/gitbotbyte/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gitbotbyte/DSA/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/gitbotbyte/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/gitbotbyte/DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gitbotbyte/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gitbotbyte/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gitbotbyte/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -80,6 +81,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gitbotbyte/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/gitbotbyte/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/gitbotbyte/DSA/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/gitbotbyte/DSA/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/gitbotbyte/DSA/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitbotbyte/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/gitbotbyte/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -130,6 +132,7 @@
 | [0016-3sum-closest](https://github.com/gitbotbyte/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/gitbotbyte/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/gitbotbyte/DSA/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/gitbotbyte/DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gitbotbyte/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gitbotbyte/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gitbotbyte/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
