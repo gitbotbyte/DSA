@@ -38,6 +38,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/gitbotbyte/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gitbotbyte/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/gitbotbyte/DSA/tree/master/0986-interval-list-intersections) |
+| [1046-last-stone-weight](https://github.com/gitbotbyte/DSA/tree/master/1046-last-stone-weight) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/gitbotbyte/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Divide and Conquer
 |  |
@@ -314,6 +315,7 @@
 | [0692-top-k-frequent-words](https://github.com/gitbotbyte/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gitbotbyte/DSA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/gitbotbyte/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/gitbotbyte/DSA/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
