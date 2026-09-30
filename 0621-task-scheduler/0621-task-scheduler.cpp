@@ -3,8 +3,6 @@ public:
     int leastInterval(vector<char>& a, int n) {
         priority_queue<pair<int, char>> pq;
         unordered_map<char, int> mp;
-        int intreq = 1;
-        int seat = 1;
         for (int i = 0; i < a.size(); i++)
             mp[a[i]]++;
         for (auto i : mp) {
