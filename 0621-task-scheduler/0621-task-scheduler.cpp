@@ -1,35 +1,51 @@
 class Solution {
 public:
-    int leastInterval(vector<char>& a, int n) {
-        priority_queue<pair<int, char>> pq;
+    int leastInterval(vector<char>& tasks, int n) {
+
         unordered_map<char, int> mp;
-        for (int i = 0; i < a.size(); i++)
-            mp[a[i]]++;
-        for (auto i : mp) {
-            pq.push({i.second, i.first});
+        for (char t : tasks) {
+            mp[t]++;
         }
+
+
+        priority_queue<pair<int, char>> pq;
+        for (auto entry : mp) {
+            pq.push({entry.second, entry.first});
+        }
+
         int total_time = 0;
+
+
         while (!pq.empty()) {
-            pair<int, char> p = pq.top();
-            vector<int> temp;
+            vector<pair<int, char>> remaining_tasks;
             int cycle = n + 1;
+
+
             while (cycle > 0 && !pq.empty()) {
-                int freq = pq.top().first;
+                auto current = pq.top();
                 pq.pop();
-                freq--;
-                if (freq > 0) {
-                    temp.push_back(freq);
+
+                current.first--;
+                
+                if (current.first > 0) {
+                    remaining_tasks.push_back(current);
                 }
+
                 total_time++;
                 cycle--;
             }
-            for (int count : temp) {
-                pq.push({count, ' '});
+
+
+            for (auto item : remaining_tasks) {
+                pq.push(item);
             }
+
+
             if (!pq.empty()) {
-                total_time += cycle;
+                total_time += cycle; 
             }
         }
+
         return total_time;
     }
 };
