@@ -1,8 +1,8 @@
 class Solution {
 public:
 
-    int dx[4] = {-1, 1, 0, 0};
-    int dy[4] = {0, 0, -1, 1};
+    int x[4] = {-1, 1, 0, 0};
+    int y[4] = {0, 0, -1, 1};
 
 
     bool isValid(int r, int c, int rows, int cols) {
@@ -17,8 +17,8 @@ public:
 
 
         for (int k = 0; k < 4; k++) {
-            int newRow = r + dx[k];
-            int newCol = c + dy[k];
+            int newRow = r + x[k];
+            int newCol = c + y[k];
 
             if (isValid(newRow, newCol, rows, cols) && grid[newRow][newCol] == '1' && !vis[newRow][newCol]) {
                 dfs(grid, newRow, newCol, vis);
