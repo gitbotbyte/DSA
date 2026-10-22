@@ -40,6 +40,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/gitbotbyte/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gitbotbyte/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/gitbotbyte/DSA/tree/master/0986-interval-list-intersections) |
+| [0994-rotting-oranges](https://github.com/gitbotbyte/DSA/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/gitbotbyte/DSA/tree/master/1046-last-stone-weight) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/gitbotbyte/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Divide and Conquer
@@ -252,6 +253,7 @@
 | [0226-invert-binary-tree](https://github.com/gitbotbyte/DSA/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitbotbyte/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/gitbotbyte/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/gitbotbyte/DSA/tree/master/0994-rotting-oranges) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -312,6 +314,7 @@
 | [0200-number-of-islands](https://github.com/gitbotbyte/DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gitbotbyte/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gitbotbyte/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0994-rotting-oranges](https://github.com/gitbotbyte/DSA/tree/master/0994-rotting-oranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
