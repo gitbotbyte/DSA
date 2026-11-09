@@ -6,17 +6,17 @@ auto fastIO = []() {
 class Solution {
 public:
     int networkDelayTime(vector<vector<int>>& times, int n, int src) {
-        vector<vector<pair<int,int>>> a(n+1);
+        vector<vector<pair<int,int>>> a(n);
         for(int i=0;i<times.size();i++){
             int s=times[i][0];
             int d=times[i][1];
             int w=times[i][2];
-            a[s].push_back({d,w});
+            a[s-1].push_back({d-1,w});
         }
         priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
-        vector<int>dist(n+1,INT_MAX);
-        dist[src]=0;
-        pq.push({0,src});
+        vector<int>dist(n,INT_MAX);
+        dist[src-1]=0;
+        pq.push({0,src-1});
         while(!pq.empty()){
             pair<int,int> p=pq.top();
             pq.pop();
@@ -33,7 +33,7 @@ public:
             }
         }
         int maxTime = 0;
-        for (int i = 1; i <= n; i++) {
+        for (int i = 0; i < n; i++) {
             if (dist[i] == INT_MAX) return -1;
             maxTime = max(maxTime, dist[i]);
         }
