@@ -1,3 +1,8 @@
+auto fastIO = []() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    return 0;
+}();
 class Solution {
 public:
     int networkDelayTime(vector<vector<int>>& times, int n, int src) {
