@@ -61,6 +61,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gitbotbyte/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/gitbotbyte/DSA/tree/master/0053-maximum-subarray) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gitbotbyte/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gitbotbyte/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/gitbotbyte/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
@@ -217,6 +218,7 @@
 | [0743-network-delay-time](https://github.com/gitbotbyte/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/gitbotbyte/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/gitbotbyte/DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gitbotbyte/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/gitbotbyte/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -264,6 +266,7 @@
 | [0743-network-delay-time](https://github.com/gitbotbyte/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/gitbotbyte/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/gitbotbyte/DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gitbotbyte/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/gitbotbyte/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/gitbotbyte/DSA/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/gitbotbyte/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -345,6 +348,7 @@
 | [0743-network-delay-time](https://github.com/gitbotbyte/DSA/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/gitbotbyte/DSA/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/gitbotbyte/DSA/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gitbotbyte/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/gitbotbyte/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/gitbotbyte/DSA/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/gitbotbyte/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -401,6 +405,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/gitbotbyte/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/gitbotbyte/DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gitbotbyte/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -413,6 +418,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/gitbotbyte/DSA/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gitbotbyte/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
